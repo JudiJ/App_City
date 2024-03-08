@@ -1,15 +1,17 @@
 # Application_City
 
-This project contains the files for a gamified VR-application in a virtual city. It was developed for the 2023/24 study "In Rod we Trust. The evaluation of virtual Rod and Frame Test as a cybersickness screening instrument" by J. Josupeit.
+This project contains the application files for a gamified VR city environment. It was developed for the 2023/24 study "In Rod we Trust - The evaluation of virtual Rod and Frame Test as a cybersickness screening instrument" by J. Josupeit.
+
+The files and information in this project are free to use provided the name of the author is cited (CC-BY).
 
 ## Application 
-“City.exe” runs the program for the virtual city environment. Participants can freely explore the environment by pressing the middle of the trackpad on the controller with their thumb. The camera will accelerate linearly up to a consistent movement speed of 7 fps (2.1336 m/s). For a gamified task, the participants can collect glowing green checkpoints by moving through them. 
+“City.exe” runs the program for the virtual city environment. Participants can freely explore the environment by pressing their thumb on the middle of the controller trackpad. The camera will accelerate linearly up to a consistent movement speed of 7 fps (2.1336 m/s). For a gamification, the participants can collect (11) glowing green checkpoints by virtually walking through them. 
 
-After opening the application, the menu shows a text bar to insert the participant number. Press “Enter” on the numbpad to close the menu and start recording. End the application by right clicking the mouse or by closing the window with the cursor. Closing the application saves the recorded data automatically in a separately created folder.
+After opening the application, the menu shows a text bar to insert the participant number. Press “Enter” on the numbpad to close the menu and start recording. The participant will see a dark waiting room during the menu, after pressing "Enter" the virtual city is displayed. Pressing "Enter" on the numbpad a second time resets the main camera to the starting position and displays the waiting room again. In case participants get stuck, pressing "Escape" resets the main camera to the starting position. End the application by right clicking the mouse or by closing the window with the cursor. Closing the application saves the recorded data automatically in a separately created folder.
 The recorded time stamps follow the format yy/MM/dd HH:mm:ss:fffff.
 
 “City.exe” should open in Windows, Linux, MacOS, indiscriminately. 
-This project was built for the HTC Vive and the key commands only have bindings to the Vive controllers. The application should work independently from the hardware, but other HMDs may have limited functionality. Oculus devices should have full visuals, but no controller connection.
+This project was programmed for the HTC Vive controllers. The application should work independently from the hardware, but other HMDs may have limited functionality. Oculus devices should have full visuals, but no controller connection.
 
 ## File Management
 The first files in this project are the "City.exe" application, the key and controller bindings, and the Unity player and crash handler. Additionally, this project also includes two folders:
@@ -20,4 +22,4 @@ The first files in this project are the "City.exe" application, the key and cont
 ### Supplementary
 The Unity game engine version is v2019.1.11f1. Steam VR Assets of the Winridge City Assets were used (version 2.3.2) and enhanced with custom-designed features. The custom assets were created using Blender version 2.90. The application was originally run with a Windows 10 (64 bit) computer, NVIDIA GeForce RTX 2070 GPU and Intel Core i7-9700K processor. 
 
-Read more on the programming and the custom designs of the virtual city at github.com/JudiJ/City_Project
+Find the custom scripts and information on the programming of the virtual city at github.com/JudiJ/City_Project
