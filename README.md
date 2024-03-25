@@ -2,8 +2,6 @@
 
 This project contains the application files for a gamified VR city environment. It was developed for the 2023/24 study "In Rod we Trust - The evaluation of virtual Rod and Frame Test as a cybersickness screening instrument" by J. Josupeit.
 
-The files and information in this project are free to use provided the name of the author is cited (CC-BY).
-
 ## Application 
 “City.exe” runs the program for the virtual city environment. Participants can freely explore the environment by pressing their thumb on the middle of the controller trackpad. The camera will accelerate linearly up to a consistent movement speed of 7 fps (2.1336 m/s). For a gamification, the participants can collect (11) glowing green checkpoints by virtually walking through them. 
 
@@ -23,3 +21,14 @@ The first files in this project are the "City.exe" application, the key and cont
 The Unity game engine version is v2019.1.11f1. Steam VR Assets of the Winridge City Assets were used (version 2.3.2) and enhanced with custom-designed features. The custom assets were created using Blender version 2.90. The application was originally run with a Windows 10 (64 bit) computer, NVIDIA GeForce RTX 2070 GPU and Intel Core i7-9700K processor. 
 
 Find the custom scripts and information on the programming of the virtual city at github.com/JudiJ/City_Project
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
