@@ -1,4 +1,4 @@
-# Readme Application_City
+# Readme App_City
 
 This project contains the application files for a gamified VR environment. 
 
