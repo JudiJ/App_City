@@ -4,7 +4,7 @@ This project contains the application "City.exe" for a gamified VR environment. 
 
 To check out and download the original Unity scene and the programming scripts for the custom created assets, go to [City_Project](https://github.com/JudiJ/City_Project).
 
-In addtion to downloading the zip-folder, requriements are Unity (v2019.1.11f1), Steam VR, and for the interaction an HTC Vive controller. 
+In addtion to downloading the zip-folder, requriements are Unity (v2019.1.11f1), Steam VR, and for the interaction a HTC Vive controller. 
 
 ## The Application 
 After unpacking the zip-folder the “City.exe” will start in Windowed mode. Users can explore a virtual city environment freely and find glowing green checkpoints on their way. In order to collect them users need to walk through them. 
