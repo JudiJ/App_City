@@ -12,10 +12,10 @@ After unpacking the zip-folder the “City.exe” will start in Windowed mode. U
 The application file should open in Windows, Linux, and MacOS. This project was programmed for the HTC Vive controllers. The application should work independently from the head-mounted display, but other custom key bindings will be required for the virtual locomotion (e.g. Oculus devices should have full visuals, but no interaction possibilities).
 
 ### Functions
-- GUI with an input field to insert a participants code [enabeled by pressing enter on the numbpad]
-- dark waiting room, before and after the virtual city is displayed [enabeled and disabeled by pressing 0 on the numbpad]
+- GUI with an input field to insert a participants code [enabeled by pressing enter on the numpad]
+- dark waiting room, before and after the virtual city is displayed [enabeled and disabeled by pressing 0 on the numpad]
 - collectible checkpoints
-- option to reset the main camera to the starting position with  [enabeled by pressing 0 on the numbpad] or without displaying the waiting room again  [enabeled by pressing escape]
+- option to reset the main camera to the starting position with  [enabeled by pressing 0 on the numpad] or without displaying the waiting room again  [enabeled by pressing escape]
 - application ends by right clicking with the mouse or closing the window
 - each trial is automatically recorded in a CSV file (the delimiter is "/" the decimal separator is ",")  after confirmation of the entered participant's code: 
   - The following information will be logged every frame:
